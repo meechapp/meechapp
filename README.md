@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meech.
 - 👀 I’m interested in iOS & macOS development.
-- 🌱 I’m currently learning Swift and C++.
+- 🌱 I’m currently learning Swift.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
